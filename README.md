@@ -2,6 +2,10 @@
 
 This project is a **responsive E-Commerce Product Listing page** that fetches product data using **API integration** and dynamically renders JSON data to display products in a clean card layout.
 
+## 📸 Screenshot
+
+![alt text](image.png)
+
 ---
 
 ## 🚀 Features
@@ -28,12 +32,6 @@ This project is a **responsive E-Commerce Product Listing page** that fetches pr
     - `XMLHttpRequest` for API calls
     - JSON parsing
     - DOM manipulation for rendering data dynamically
-
----
-
-## 📸 Screenshot
-
-![alt text](image.png)
 
 ---
 
